@@ -25,14 +25,14 @@ Codingame/
 ```
 
 
-## 🚀 Languages used
+## 🗺 Languages used
 
 - Python
 - *C (soon)*
 - *C++ (soont)*
 - *OCaml (soon)*
 
-## 🛠️ How to run a solution
+## 🛠 How to run a solution
 
 ```
 1. Go to Codingame
@@ -44,10 +44,10 @@ Codingame/
 ```
 3. Click on [PLAY TESTCASE] or [PLAY ALL TESTCASES]
 ```
-## 📌 Notes
+## ⚠ Notes
 
 This repository is mainly a personal training space to improve in algorithms and data structures.
 
-## 📝 License
+## ⚖ License
 
 This project is under the MIT license — feel free to reuse or draw inspiration from the code.
