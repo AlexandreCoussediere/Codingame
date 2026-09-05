@@ -2,19 +2,20 @@
 
 This repository contains my solutions to [CodinGame](https://www.codingame.com/) puzzles and challenges.
 
+My Codingame profile [HERE](https://www.codingame.com/profile/060a6f641092b7a7b869d8dc5ab4ed8c3079347)
 ## 📁 Structure
 
 ```
 Codingame/
 |
 ├── README.md
+├── Bot Programming/
 ├── Python/
     ├── Classic Puzzles/
     │   ├── Easy/
     │   ├── Medium/
     │   ├── Hard/
     │   └── Very Hard/
-    ├── Bot Programming/
     ├── Optimization/
     └── Code Golf/
         ├── Easy/
@@ -27,10 +28,16 @@ Codingame/
 
 ## 🗺 Languages used
 
-- Python
-- *C (soon)*
-- *C++ (soont)*
-- *OCaml (soon)*
+- Python 3
+- JavaScript
+- TypeScript
+- C
+- C#
+- C++
+- Dart
+- Kotlin
+- Swift
+- Java
 
 ## 🛠 How to run a solution
 
