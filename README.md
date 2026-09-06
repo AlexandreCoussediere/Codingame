@@ -3,6 +3,7 @@
 This repository contains my solutions to [CodinGame](https://www.codingame.com/) puzzles and challenges.
 
 My Codingame profile [HERE](https://www.codingame.com/profile/060a6f641092b7a7b869d8dc5ab4ed8c3079347)
+
 ## 📁 Structure
 
 ```
@@ -11,33 +12,61 @@ Codingame/
 ├── README.md
 ├── Bot Programming/
 ├── Python/
-    ├── Classic Puzzles/
-    │   ├── Easy/
-    │   ├── Medium/
-    │   ├── Hard/
-    │   └── Very Hard/
-    ├── Optimization/
-    └── Code Golf/
-        ├── Easy/
-        ├── Medium/
-        ├── Hard/
-        └── Very Hard/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
+├── JavaScript/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
+├── TypeScript/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
+├── C#/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
+├── C/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
+├── C++/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
+├── Dart/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
+├── Kotlin/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
+├── Swift/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
+├── Java/
+|   ├── Classic Puzzles/
+|   ├── Optimization/
+|   └── Code Golf/
 
 ```
 
 
 ## 🗺 Languages used
 
-- Python 3
-- JavaScript
-- TypeScript
-- C
-- C#
-- C++
-- Dart
-- Kotlin
-- Swift
-- Java
+- Python 3 : *15 puzzles*
+- JavaScript : *8 puzzles*
+- TypeScript : *8 puzzles*
+- C : *1 puzzles*
+- C# : *1 puzzles*
+- C++ : *1 puzzles*
+- Dart : *1 puzzles*
+- Kotlin : *1 puzzles*
+- Swift : *1 puzzles*
+- Java : *1 puzzles*
 
 ## 🛠 How to run a solution
 
@@ -48,6 +77,7 @@ Codingame/
 ```
 2. Go to the IDE of the code
 ```
+
 ```
 3. Click on [PLAY TESTCASE] or [PLAY ALL TESTCASES]
 ```
